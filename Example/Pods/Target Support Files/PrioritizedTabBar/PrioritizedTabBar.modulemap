@@ -1,0 +1,6 @@
+framework module PrioritizedTabBar {
+  umbrella header "PrioritizedTabBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

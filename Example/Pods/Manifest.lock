@@ -1,0 +1,16 @@
+PODS:
+  - PrioritizedTabBar (0.1.0)
+
+DEPENDENCIES:
+  - PrioritizedTabBar (from `../`)
+
+EXTERNAL SOURCES:
+  PrioritizedTabBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrioritizedTabBar: ad993b16e2437305dcdb2d83b2131076b7456796
+
+PODFILE CHECKSUM: 2db14b427343fabd6d45b75a850fe57e14a12071
+
+COCOAPODS: 1.8.4

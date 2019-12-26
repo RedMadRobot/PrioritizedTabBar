@@ -1,0 +1,22 @@
+{
+  "name": "PrioritizedTabBar",
+  "version": "0.1.0",
+  "summary": "A short description of PrioritizedTabBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/firmach/PrioritizedTabBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "firmach": "rc@redmadrobot.com"
+  },
+  "source": {
+    "git": "https://github.com/firmach/PrioritizedTabBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "PrioritizedTabBar/Classes/**/*"
+}

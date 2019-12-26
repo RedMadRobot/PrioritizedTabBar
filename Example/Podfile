@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PrioritizedTabBar_Example' do
+  pod 'PrioritizedTabBar', :path => '../'
+
+  target 'PrioritizedTabBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
